@@ -1,5 +1,5 @@
 # Sign Language Detection  
-<img src='https://miro.medium.com/v2/resize:fit:828/format:webp/0*EC2QFI9soQV-qMlY' width=40% height=20%>
+<img src='https://miro.medium.com/v2/resize:fit:828/format:webp/0*EC2QFI9soQV-qMlY' width=100% height=20%>
 
 This repository contains my project on **Sign Language Detection** using two different approaches:  
 
