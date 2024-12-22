@@ -1,4 +1,3 @@
-# Sign_language
 # Sign Language Detection  
 
 This repository contains my project on **Sign Language Detection** using two different approaches:  
